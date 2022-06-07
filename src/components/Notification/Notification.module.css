@@ -1,0 +1,9 @@
+.text {
+  display: block;
+  text-align: center;
+  width: 400px;
+  margin: 40px auto;
+  font-size: 24px;
+  font-weight: 500;
+  color: red;
+}
